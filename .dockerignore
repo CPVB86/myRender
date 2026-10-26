@@ -1,0 +1,8 @@
+.git
+**/.git
+**/node_modules
+**/.env
+**/*.env
+**/data
+**/logs
+apps/kt-academy/bot/test

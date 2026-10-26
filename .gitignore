@@ -1,0 +1,6 @@
+apps/
+config/*.env
+.env
+data/
+logs/
+!config/*.env.example

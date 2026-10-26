@@ -1,0 +1,25 @@
+name: myrender
+services:
+  knippie:
+    build: .
+    restart: unless-stopped
+    init: true
+    env_file: config/knippie.env
+    environment:
+      BOT_NAME: knippie
+      DATA_DIR: /app/data
+    volumes:
+      - knippie-data:/app/data
+    mem_limit: 256m
+    cpus: 0.5
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    read_only: true
+    tmpfs: [/tmp]
+    logging:
+      driver: json-file
+      options:
+        max-size: 5m
+        max-file: "3"
+volumes:
+  knippie-data:
