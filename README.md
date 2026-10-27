@@ -57,12 +57,13 @@ Gebruik één gewoon tekstkanaal. Stel via roloverschrijvingen in:
 | Kanaal bekijken | Weigeren | Toestaan | Toestaan | Toestaan |
 | Berichtgeschiedenis lezen | Neutraal | Toestaan | Toestaan | Toestaan |
 | Berichten verzenden in hoofdkanaal | Weigeren | Weigeren | Weigeren | Toestaan |
+| Polls verzenden | Weigeren | Weigeren | Weigeren | Toestaan |
 | Openbare threads maken | Weigeren | Weigeren | Weigeren | Toestaan |
 | Privéthreads maken | Weigeren | Weigeren | Weigeren | Niet nodig |
 | Berichten in threads verzenden | Weigeren | Weigeren | Toestaan | Toestaan |
 | Threads beheren | Weigeren | Weigeren | Weigeren | Toestaan |
 
-Beheerders omzeilen kanaalbeperkingen. Andere rol-/lidoverschrijvingen kunnen extra rechten geven; test met gewone ledenaccounts. Knippie verandert geen rollen/rechten. Basic-leden zien de discussie maar kunnen niet reageren. Premium krijgt voorrang bij beide rollen. Threads worden na zeven etmalen vergrendeld en gearchiveerd, zodat gewone leden niet kunnen heropenen. Discords eigen autoarchivering is geen vaste sluitingsdeadline.
+Beheerders omzeilen kanaalbeperkingen. Andere rol-/lidoverschrijvingen kunnen extra rechten geven; test met gewone ledenaccounts. Knippie verandert geen rollen/rechten. Basic-leden zien de discussie maar kunnen niet reageren. Premium krijgt voorrang bij beide rollen voor de persoonlijke feedback. Knippie plaatst officiële Discord-polls; iedereen met kanaal-/threadtoegang kan daarop stemmen. Polls verzenden is vereist voor het aanmaken, niet voor stemmen. De stemming duurt 168 uur. Threads worden na zeven etmalen vergrendeld en gearchiveerd, zodat gewone leden niet kunnen heropenen. Discords eigen autoarchivering is geen vaste sluitingsdeadline. De extra knop Mijn reactie toont persoonlijke feedback na controle van de stem; officieel stemmen alleen levert geen popup op.
 
 ## Updates
 

@@ -1,4 +1,5 @@
 apps/
+keys/
 config/*.env
 .env
 data/
